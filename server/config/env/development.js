@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/mean-dev',
+    db: 'mongodb://localhost/nycdata',
     app: {
-        name: 'MEAN - A Modern Stack - Development'
+        name: 'GeoNYC: Location Data Concordance'
     },
     facebook: {
         clientID: 'APP_ID',
